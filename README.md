@@ -1,4 +1,4 @@
-LambdaMART realisation with DecisionTreeRegressor as a base model in pointwise ranking.
+LambdaMART realization  with DecisionTreeRegressor as a base model in pointwise ranking.
 
 Class Parameters
 n_estimators — the number of trees that are being built as part of the boosting.
